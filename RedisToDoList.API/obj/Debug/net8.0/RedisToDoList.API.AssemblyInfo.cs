@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RedisToDoList.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2a4cda5bbbd73865f9d811bb686c169f82de2db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1418677d6cb29a37be3e0fb42886dbf98d5e4fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedisToDoList.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedisToDoList.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
