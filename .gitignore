@@ -482,3 +482,5 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+/RedisToDoList.API/obj/Debug/net8.0/RedisToDoList.API.AssemblyInfo.cs
+/RedisToDoList.API/obj/Debug/net8.0/RedisToDoList.API.AssemblyInfoInputs.cache
